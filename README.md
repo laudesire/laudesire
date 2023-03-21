@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 
-<h3 align="center">I am passionnate about <b> Data Science </b> and learning new stuff !  </h3>
+<h3 align="center">I am passionnate about <b> Data Science </b> and learning new things !  </h3>
 
 <p>&nbsp;</p>
 
